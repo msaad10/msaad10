@@ -10,7 +10,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me :
-- 🔭 I’m Senior Software Engineer @ 10pearls LLC.
+- 💡 &nbsp;I'm a software engineer with 4+ years of experience in software design & development.
+- 💻 &nbsp;Currently working as a Senior Software Engineer at [10Pearls](https://10pearls.com/).
 - 💬 Ask me about React/Java/Micro Services Related Stuff
 - 📫 How to reach me: Check social links below.
 
